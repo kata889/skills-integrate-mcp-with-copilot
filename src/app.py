@@ -33,6 +33,13 @@ activities = {
         "max_participants": 20,
         "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
     },
+    # Provisional demo values; confirm the schedule and capacity before publishing.
+    "GitHub Skills": {
+        "description": "Build practical coding and collaboration skills with GitHub",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM (provisional demo schedule)",
+        "max_participants": 20,
+        "participants": []
+    },
     "Gym Class": {
         "description": "Physical education and sports activities",
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
